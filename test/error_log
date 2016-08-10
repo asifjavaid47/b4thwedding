@@ -1,0 +1,1 @@
+[29-Dec-2014 06:09:25 America/Chicago] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home4/yasir/public_html/clients/b4thewedding/test/register.php on line 3

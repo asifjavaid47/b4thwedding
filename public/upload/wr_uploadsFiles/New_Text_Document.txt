@@ -1,0 +1,7 @@
+I have a WordPress blog with 25,000+ spam comments that need to be removed manually. I want to retain the non-spam comments so this will require attention to detail although most of it is spam.
+I have a WordPress blog with 25,000+ spam
+comments that need to be removed manually. 
+I want to retain the non-spam comments 
+so this will require attention to detail although 
+most of it is spam.
+Thanks 
